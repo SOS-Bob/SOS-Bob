@@ -7,4 +7,5 @@ discord: peacebob#3597
 https://steamcommunity.com/groups/_CovertOps_public
 https://discord.gg/5DEHbn
 https://github.com/SOS-Bob/Punch-vest
+https://youtu.be/u1dDI9aU8OU?list=PLysuWIfOOnr6Smt1bUuGRWYQ9NM-PoumB
 
